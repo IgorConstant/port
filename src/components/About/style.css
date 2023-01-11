@@ -1,0 +1,23 @@
+.about h1 {
+  font-size: 3rem;
+  font-family: "Poppins", sans-serif;
+}
+
+.about small {
+  font-size: 25px;
+}
+
+.about hr {
+  width: 10%;
+}
+
+.about p {
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5rem;
+  max-width: 600px;
+}
+
+.about .padding-100 {
+  padding: 100px 0;
+}
